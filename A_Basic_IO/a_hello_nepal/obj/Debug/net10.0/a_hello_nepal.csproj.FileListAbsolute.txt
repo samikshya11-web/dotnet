@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\bin\Debug\net10.0\a_hello_nepal.exe
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\bin\Debug\net10.0\a_hello_nepal.deps.json
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\bin\Debug\net10.0\a_hello_nepal.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\bin\Debug\net10.0\a_hello_nepal.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\bin\Debug\net10.0\a_hello_nepal.pdb
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\obj\Debug\net10.0\a_hello_nepal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\obj\Debug\net10.0\a_hello_nepal.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\obj\Debug\net10.0\a_hello_nepal.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\obj\Debug\net10.0\a_hello_nepal.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\obj\Debug\net10.0\a_hello_nepal.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\obj\Debug\net10.0\refint\a_hello_nepal.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\obj\Debug\net10.0\a_hello_nepal.pdb
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\obj\Debug\net10.0\a_hello_nepal.genruntimeconfig.cache
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\a_hello_nepal\obj\Debug\net10.0\ref\a_hello_nepal.dll
