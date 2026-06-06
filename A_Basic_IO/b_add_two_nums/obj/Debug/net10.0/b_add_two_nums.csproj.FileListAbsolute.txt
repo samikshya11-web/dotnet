@@ -12,3 +12,4 @@ C:\Users\Dell\Desktop\csharp\A_Basic_IO\b_add_two_nums\obj\Debug\net10.0\refint\
 C:\Users\Dell\Desktop\csharp\A_Basic_IO\b_add_two_nums\obj\Debug\net10.0\b_add_two_nums.pdb
 C:\Users\Dell\Desktop\csharp\A_Basic_IO\b_add_two_nums\obj\Debug\net10.0\b_add_two_nums.genruntimeconfig.cache
 C:\Users\Dell\Desktop\csharp\A_Basic_IO\b_add_two_nums\obj\Debug\net10.0\ref\b_add_two_nums.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\b_add_two_nums\obj\Debug\net10.0\b_add_two_nums.sourcelink.json

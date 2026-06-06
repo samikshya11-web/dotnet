@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\bin\Debug\net10.0\e_smallest_number.exe
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\bin\Debug\net10.0\e_smallest_number.deps.json
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\bin\Debug\net10.0\e_smallest_number.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\bin\Debug\net10.0\e_smallest_number.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\bin\Debug\net10.0\e_smallest_number.pdb
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\e_smallest_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\e_smallest_number.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\e_smallest_number.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\e_smallest_number.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\e_smallest_number.sourcelink.json
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\e_smallest_number.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\refint\e_smallest_number.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\e_smallest_number.pdb
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\e_smallest_number.genruntimeconfig.cache
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\e_smallest_number\obj\Debug\net10.0\ref\e_smallest_number.dll
