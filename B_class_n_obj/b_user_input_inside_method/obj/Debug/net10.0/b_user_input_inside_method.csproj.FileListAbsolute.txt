@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\bin\Debug\net10.0\b_user_input_inside_method.exe
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\bin\Debug\net10.0\b_user_input_inside_method.deps.json
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\bin\Debug\net10.0\b_user_input_inside_method.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\bin\Debug\net10.0\b_user_input_inside_method.dll
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\bin\Debug\net10.0\b_user_input_inside_method.pdb
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\b_user_input_inside_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\b_user_input_inside_method.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\b_user_input_inside_method.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\b_user_input_inside_method.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\b_user_input_inside_method.sourcelink.json
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\b_user_input_inside_method.dll
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\refint\b_user_input_inside_method.dll
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\b_user_input_inside_method.pdb
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\b_user_input_inside_method.genruntimeconfig.cache
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\b_user_input_inside_method\obj\Debug\net10.0\ref\b_user_input_inside_method.dll
