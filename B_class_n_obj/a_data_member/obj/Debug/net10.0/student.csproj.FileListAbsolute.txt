@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\bin\Debug\net10.0\student.exe
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\bin\Debug\net10.0\student.deps.json
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\bin\Debug\net10.0\student.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\bin\Debug\net10.0\student.dll
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\bin\Debug\net10.0\student.pdb
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\student.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\student.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\student.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\student.sourcelink.json
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\student.dll
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\refint\student.dll
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\student.pdb
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\student.genruntimeconfig.cache
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\a_data_member\obj\Debug\net10.0\ref\student.dll

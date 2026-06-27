@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\bin\Debug\net10.0\f_area_of_circle.exe
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\bin\Debug\net10.0\f_area_of_circle.deps.json
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\bin\Debug\net10.0\f_area_of_circle.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\bin\Debug\net10.0\f_area_of_circle.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\bin\Debug\net10.0\f_area_of_circle.pdb
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\f_area_of_circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\f_area_of_circle.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\f_area_of_circle.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\f_area_of_circle.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\f_area_of_circle.sourcelink.json
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\f_area_of_circle.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\refint\f_area_of_circle.dll
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\f_area_of_circle.pdb
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\f_area_of_circle.genruntimeconfig.cache
+C:\Users\Dell\Desktop\csharp\A_Basic_IO\f_area_of_circle\obj\Debug\net10.0\ref\f_area_of_circle.dll
