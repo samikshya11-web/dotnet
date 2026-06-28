@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("b_user_input_inside_method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e05a0bf7f594f2d26676e73bf717efd19a68e532")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb630b2a04d7e71534454147e209248a923f15a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("b_user_input_inside_method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("b_user_input_inside_method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
