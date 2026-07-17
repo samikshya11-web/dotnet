@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\bin\Debug\net10.0\b_array_sort.exe
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\bin\Debug\net10.0\b_array_sort.deps.json
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\bin\Debug\net10.0\b_array_sort.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\bin\Debug\net10.0\b_array_sort.dll
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\bin\Debug\net10.0\b_array_sort.pdb
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\b_array_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\b_array_sort.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\b_array_sort.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\b_array_sort.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\b_array_sort.sourcelink.json
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\b_array_sort.dll
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\refint\b_array_sort.dll
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\b_array_sort.pdb
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\b_array_sort.genruntimeconfig.cache
+C:\Users\Dell\Desktop\csharp\D_array\b_array_sort\obj\Debug\net10.0\ref\b_array_sort.dll

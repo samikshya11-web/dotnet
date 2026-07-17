@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\csharp\D_array\d_array\obj\Debug\net10.0\d_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\D_array\d_array\obj\Debug\net10.0\d_array.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\D_array\d_array\obj\Debug\net10.0\d_array.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\D_array\d_array\obj\Debug\net10.0\d_array.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\D_array\d_array\obj\Debug\net10.0\d_array.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\D_array\c_array\bin\Debug\net10.0\c_array.exe
+C:\Users\Dell\Desktop\csharp\D_array\c_array\bin\Debug\net10.0\c_array.deps.json
+C:\Users\Dell\Desktop\csharp\D_array\c_array\bin\Debug\net10.0\c_array.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\D_array\c_array\bin\Debug\net10.0\c_array.dll
+C:\Users\Dell\Desktop\csharp\D_array\c_array\bin\Debug\net10.0\c_array.pdb
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\c_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\c_array.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\c_array.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\c_array.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\c_array.sourcelink.json
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\c_array.dll
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\refint\c_array.dll
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\c_array.pdb
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\c_array.genruntimeconfig.cache
+C:\Users\Dell\Desktop\csharp\D_array\c_array\obj\Debug\net10.0\ref\c_array.dll

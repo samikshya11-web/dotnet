@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\bin\Debug\net10.0\d_classobj.exe
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\bin\Debug\net10.0\d_classobj.deps.json
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\bin\Debug\net10.0\d_classobj.runtimeconfig.json
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\bin\Debug\net10.0\d_classobj.dll
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\bin\Debug\net10.0\d_classobj.pdb
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\d_classobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\d_classobj.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\d_classobj.AssemblyInfo.cs
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\d_classobj.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\d_classobj.sourcelink.json
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\d_classobj.dll
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\refint\d_classobj.dll
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\d_classobj.pdb
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\d_classobj.genruntimeconfig.cache
+C:\Users\Dell\Desktop\csharp\B_class_n_obj\d_classobj\obj\Debug\net10.0\ref\d_classobj.dll
